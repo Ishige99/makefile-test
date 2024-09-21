@@ -14,3 +14,7 @@ greet:
 ## 今回の場合は`$ make yay`を叩くと`Yay!`のみが表示される
 yay:
 	@echo 'Yay!'
+
+## ファイルの出力も可能
+annyong:
+	@cat greeting.txt
