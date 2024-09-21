@@ -1,2 +1,3 @@
 # makefile-test
-makefile-test
+
+Makefile のお勉強
